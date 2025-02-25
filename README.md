@@ -1,4 +1,4 @@
-# 👋 Hello! I'm George Bastos Ferreira  
+# 👋 Hello! I'm George Bastos  
 
 I'm a web developer passionate about technology and software development.  
 I specialize in frontend and backend development, always striving for high-quality solutions.  
