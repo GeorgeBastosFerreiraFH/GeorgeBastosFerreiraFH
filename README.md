@@ -9,6 +9,11 @@ I specialize in frontend and backend development, always striving for high-quali
 - 🔹 PostgreSQL, MySQL  
 - 🔹 Git & GitHub  
 
+## 📈 GitHub Analytics  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=GeorgeBastosFerreiraFH&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBastosFerreiraFH&layout=compact&theme=dark)  
+
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeBastosFerreiraFH&show_icons=true&theme=dark)  
 
