@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello! I'm George Bastos Ferreira  
 
-<!--
-**GeorgeBastosFerreiraFH/GeorgeBastosFerreiraFH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer passionate about technology and software development.  
+I specialize in frontend and backend development, always striving for high-quality solutions.  
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools  
+- 🔹 HTML, CSS, JavaScript  
+- 🔹 React, Node.js, Tailwind CSS, Bootstrap  
+- 🔹 PostgreSQL, MySQL  
+- 🔹 Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeBastosFerreiraFH&show_icons=true&theme=dark)  
+
+## 🌍 Let's Connect!  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ge-be88/)  
+- 📧 Email: ge-be@live.com
+
+![Profile Views](https://komarev.com/ghpvc/?username=GeorgeBastosFerreiraFH&color=blue)  
