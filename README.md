@@ -11,7 +11,7 @@ I specialize in frontend and backend development, always striving for high-quali
 
 ## 📊 GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBastosFerreiraFH&layout=compact&theme=dark)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeBastosFerreiraFH&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeBastosFerreiraFH&layout=compact&theme=dark)  
 
 
 
